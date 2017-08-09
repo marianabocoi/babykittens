@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/babykittens.iml" filepath="$PROJECT_DIR$/.idea/modules/babykittens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/babykittens_main.iml" filepath="$PROJECT_DIR$/.idea/modules/babykittens_main.iml" group="babykittens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/babykittens_test.iml" filepath="$PROJECT_DIR$/.idea/modules/babykittens_test.iml" group="babykittens" />
+    </modules>
+  </component>
+</project>
